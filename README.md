@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Fala, eu sou o faxzin
 
-<!--
-**dev-faxzin/dev-faxzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End focado em criar interfaces modernas, rápidas e que geram resultado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+- 💻 Focado em desenvolvimento Front-End
+- 🎯 Buscando oportunidades como desenvolvedor júnior
+- 📈 Interesse em projetos que envolvam performance, UX e conversão
+- 🧠 Evoluindo constantemente através de prática e projetos reais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Front-End
+- HTML5
+- CSS3 (Flexbox, Grid, Responsividade)
+- JavaScript (ES6+)
+- DOM Manipulation
+
+### ⚛️ Frameworks e Bibliotecas
+- React.js
+- Next.js (básico)
+
+### 🎨 Estilização
+- CSS puro
+- Tailwind CSS
+- Bootstrap
+
+### 🔧 Ferramentas
+- Git & GitHub
+- Figma (interpretação de layout)
+- VS Code
+
+### 🌐 Conceitos importantes
+- Responsividade (Mobile First)
+- SEO básico
+- Performance Web
+- Acessibilidade (básico)
+- Boas práticas de UI/UX
+
+---
+
+## 📂 Projetos em destaque
+
+### 🍔 Landing Page para Hamburgueria
+> Página focada em aumentar pedidos diretos com cardápio visual, botão para WhatsApp e prova social.
+
+🔗 Em breve...
+
+---
+
+## 🎯 Meu foco como desenvolvedor
+- Criar interfaces rápidas e responsivas
+- Melhorar a experiência do usuário
+- Desenvolver projetos com foco em conversão
+- Escrever código limpo e organizado
+
+---
+
+## 📫 Contato
+- 📧 Email: seuemail@email.com
+- 📱 WhatsApp: (99) 99999-9999
+
+---
+
+## ⚡ Frase que me define
+> "Não é só sobre código, é sobre resolver problemas."
+
+---
+
+⭐ Se curtir meus projetos, deixa uma estrela!
